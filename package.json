@@ -1,0 +1,14 @@
+{
+    "name": "@arted/cli",
+    "version": "0.0.1",
+    "description": "Arted shell utils",
+    "bin": {
+        "dzip": "./bin/dzip.js"
+    },
+    "repository": "git@github.com:edonet/cli.git",
+    "author": "edoner <edonet@163.com>",
+    "license": "MIT",
+    "dependencies": {
+        "@arted/utils": "^0.0.111"
+    }
+}
