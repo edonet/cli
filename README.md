@@ -1,4 +1,4 @@
-# cli
+# @arted/cli
 Arted shell utils
 
 ## Installation
