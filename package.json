@@ -9,6 +9,7 @@
     "author": "edoner <edonet@163.com>",
     "license": "MIT",
     "dependencies": {
-        "@arted/utils": "^0.0.112"
+        "@arted/utils": "^0.0.112",
+        "yargs": "^12.0.1"
     }
 }
