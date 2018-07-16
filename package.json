@@ -1,6 +1,6 @@
 {
     "name": "@arted/cli",
-    "version": "0.0.1",
+    "version": "0.0.101",
     "description": "Arted shell utils",
     "bin": {
         "dzip": "./bin/dzip.js"
@@ -9,6 +9,6 @@
     "author": "edoner <edonet@163.com>",
     "license": "MIT",
     "dependencies": {
-        "@arted/utils": "^0.0.111"
+        "@arted/utils": "^0.0.112"
     }
 }

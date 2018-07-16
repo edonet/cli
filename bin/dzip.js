@@ -29,8 +29,7 @@ const
 async function run() {
     let argv = yargs.boolean('x').argv;
 
-    console.log(argv);
-
+    // 判断操作类型
     if (argv.x) {
         let src = argv.src || argv._[0] || 'src.zip',
             dist = argv.dist || argv._[1] || src.replace(/\.zip$/, '');
